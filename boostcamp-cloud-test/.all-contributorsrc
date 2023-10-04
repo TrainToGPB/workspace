@@ -1,0 +1,75 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "zzsza",
+      "name": "Sung Yun Byeon",
+      "avatar_url": "https://avatars.githubusercontent.com/u/18207755?v=4",
+      "profile": "http://zzsza.github.io",
+      "contributions": [
+        "projectManagement",
+        "maintenance",
+        "code",
+        "doc"
+      ]
+    },
+    {
+      "login": "thejungwon",
+      "name": "Jungwon Seo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/12247655?v=4",
+      "profile": "https://codethief.io",
+      "contributions": [
+        "code",
+        "content",
+        "doc",
+        "example"
+      ]
+    },
+    {
+      "login": "ahnsv",
+      "name": "humphrey",
+      "avatar_url": "https://avatars.githubusercontent.com/u/24207964?v=4",
+      "profile": "https://humphreyahn.dev/",
+      "contributions": [
+        "code",
+        "content",
+        "doc",
+        "example"
+      ]
+    },
+    {
+      "login": "heumsi",
+      "name": "heumsi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/31306282?v=4",
+      "profile": "http://dailyheumsi.tistory.com",
+      "contributions": [
+        "code",
+        "content",
+        "doc",
+        "example"
+      ]
+    },
+    {
+      "login": "Ykmoon",
+      "name": "YkMoon",
+      "avatar_url": "https://avatars.githubusercontent.com/u/45195471?v=4",
+      "profile": "https://www.linkedin.com/in/ykmoon/",
+      "contributions": [
+        "code",
+        "content",
+        "doc",
+        "example"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "Boostcamp-AI-Tech-Product-Serving",
+  "projectOwner": "zzsza",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
