@@ -20,3 +20,8 @@ latest-run
 .DS_Store
 MLProject
 *.pth
+*.zip
+*.tar
+*.tar.gz
+
+zero-to-mastery-ml/images/*
