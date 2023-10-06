@@ -24,4 +24,6 @@ MLProject
 *.tar
 *.tar.gz
 
+.ipynb_checkpoints/*
+
 zero-to-mastery-ml/images/*
